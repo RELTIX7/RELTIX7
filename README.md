@@ -1,6 +1,6 @@
 <p align="center"><img src="banner.svg" alt="KITSU — mon univers rose et lavande" width="100%" /></p>
 
-<p align="center">୨୧ &nbsp; <b>Un peu de douceur, beaucoup d’idées.</b> &nbsp; ୨୧</p>
+
 <p align="center">🌷 Applications &nbsp; · &nbsp; 🔮 Intelligence artificielle &nbsp; · &nbsp; 🌙 Linux &nbsp; · &nbsp; 🧸 Hardware</p>
 
 ---
@@ -35,18 +35,18 @@ Je crée et personnalise des applications, des scripts, des environnements Linux
 | **Thèmes de démarrage et de verrouillage** | Personnalisation coordonnée de GRUB, Plymouth et des écrans de connexion/verrouillage, avec un personnage blanc et violet. |
 | **Gestes du pavé tactile** | Configuration Touchegg : changement de fenêtre à trois doigts, de bureau à quatre doigts et gestion des fenêtres. |
 | **Scripts de restauration et de réglage** | Outils pour sauvegarder et restaurer le bureau, les barres et les configurations, et ajuster les performances. |
-| **Script Windows de sauvegarde Wi-Fi** | Adaptation d’un script BAT d’export des profils Wi-Fi vers un dossier local. |
+| **Script Windows** | Création de script et d'automatisation. |
 
 ## 🔮 Dans mon carnet d’idées
 
 Ces sujets ont été travaillés dans mes échanges ; leur réalisation complète reste à confirmer.
 
-- **Portfolio multilingue** : adaptation d’un site de présentation avec mes projets, des liens GitHub et une langue de repli en anglais.
+- **Portfolio** : adaptation d’un site de présentation avec mes projets, des liens GitHub.
 - **Proxmox et Docker** : préparation d’un environnement de conteneurs sur un serveur personnel.
 - **Contrôle de PC sur le réseau local** : projet de partage du clavier et du pavé tactile entre un portable et une tour en Wi-Fi.
-- **IA de programmation locale** : essais de modèles et d’intégration avec OpenCode sur un ordinateur aux ressources limitées.
+- **IA de programmation locale** : essais de modèles et d’intégration avec OpenCode sur un ordinateur.
 - **Jarvis Android** : exploration d’un assistant vocal capable d’effectuer des actions sur téléphone.
 
 <p align="center">✧ &nbsp; ♡ &nbsp; ✧</p>
 
-<p align="center"><sub>Fait avec curiosité et l’aide de ChatGPT ♡<br/>Présentation de mes projets · aucun code ni firmware publié ici<br/>Inventaire des échanges accessibles · octobre 2026</sub></p>
+<p align="center"><sub>♡<br/>Présentation de mes projets · aucun code ni firmware publié ici<br/>Inventaire des échanges accessibles · octobre 2026</sub></p>
