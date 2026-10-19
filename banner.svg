@@ -5,9 +5,8 @@
 <g fill="#eac8f4"><circle cx="85" cy="64" r="3"/><circle cx="1040" cy="285" r="3"/><circle cx="932" cy="58" r="2"/><circle cx="340" cy="300" r="2"/><circle cx="1110" cy="100" r="4"/><circle cx="120" cy="280" r="2"/></g>
 <g fill="none" stroke="#eecff8" stroke-width="2"><path d="M160 65v24m-12-12h24M1030 185v30m-15-15h30M950 300v14m-7-7h14M300 76v14m-7-7h14"/></g>
 <path d="M1060 45a33 33 0 1 0 30 52 29 29 0 0 1-30-52" fill="#f8d6ed"/>
-<text x="600" y="87" fill="#e4c6ec" text-anchor="middle" font-family="Verdana,sans-serif" font-size="14" letter-spacing="6">BIENVENUE DANS MON PETIT UNIVERS</text>
-<text x="600" y="191" fill="url(#t)" text-anchor="middle" font-family="Verdana,sans-serif" font-size="86" font-weight="bold" letter-spacing="14">KITSU</text>
+<text x="600" y="191" fill="url(#t)" text-anchor="middle" font-family="Verdana,sans-serif" font-size="86" font-weight="bold" letter-spacing="14">𝑲𝑰𝑻𝑺𝑼</text>
 <text x="600" y="234" fill="#f6e9fb" text-anchor="middle" font-family="Verdana,sans-serif" font-size="20" letter-spacing="3">créer · explorer · personnaliser</text>
 <rect x="395" y="269" width="410" height="40" rx="20" fill="#e3b9ed" fill-opacity=".12" stroke="#d9b3e5" stroke-opacity=".4"/>
-<text x="600" y="295" fill="#f5d8f0" text-anchor="middle" font-family="Verdana,sans-serif" font-size="14" letter-spacing="2">RELTIX7  ·  IA / LINUX / WEB / HARDWARE</text>
+<text x="600" y="295" fill="#f5d8f0" text-anchor="middle" font-family="Verdana,sans-serif" font-size="14" letter-spacing="2">𝑲𝑰𝑻𝑺𝑼  ·  IA / LINUX / WEB / HARDWARE</text>
 </svg>
